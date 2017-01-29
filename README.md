@@ -1,4 +1,4 @@
-Simple example of automated tests that covers GitHub registration form
+Simple example of automated tests using Facebook Selenium WebDriver that covers GitHub registration form
 
 Dependencies:
 - phpunit
